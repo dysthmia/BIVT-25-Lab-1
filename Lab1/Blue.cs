@@ -1,10 +1,12 @@
-﻿namespace Lab1
+namespace Lab1
 {
     public class Blue
     {
         public bool Task1(int a, int b)
         {
             bool answer = false;
+            
+            // тестик
 
             // code here
 
